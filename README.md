@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Iván 👋
+
+<p>
+  I'm a chemist and sometimes a software developer.
+  Learning programming in javascript and python.
+</p>
+
+You can find me in [LinkedIn](https://www.linkedin.com/in/ivan-pena-huguet/).
 
 <!--
 **IvanPenyaHuguet/ivanpenyahuguet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
