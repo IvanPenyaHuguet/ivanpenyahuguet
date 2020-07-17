@@ -1,4 +1,4 @@
-### Hi, I'm Iván 👋
+### <h1 align=center>Hi, I'm Iván 👋</h1>
 
 <p>
   I'm a chemist and sometimes a software developer.
