@@ -2,7 +2,7 @@
 
 <p>
   I'm a chemist and a software developer.
-  Programming in javascript and python.
+  Programming in Java and JavaScript, maybe sometimes python.
 </p>
 
 You can find me in [LinkedIn](https://www.linkedin.com/in/ivan-pena-huguet/).
