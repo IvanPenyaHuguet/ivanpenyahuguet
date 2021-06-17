@@ -1,7 +1,7 @@
 ### <h1 align=center>Hi, I'm Iván 👋</h1>
 
 <p>
-  I'm a chemist and sometimes a software developer.
+  I'm a chemist and a software developer.
   Programming in javascript and python.
 </p>
 
