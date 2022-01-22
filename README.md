@@ -1,8 +1,7 @@
 ### <h1 align=center>Hi, I'm Iván 👋</h1>
 
 <p>
-  I'm a chemist and a software developer.
-  Programming in Java and JavaScript, and sometimes python.
+  I'm ajavascript lover, front end developer with knowledge of new javascript and typescript tendencies.
 </p>
 
 Find me in:
